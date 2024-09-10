@@ -1,0 +1,14 @@
+{
+  "name": "lab0",
+  "version": "1.0.0",
+  "description": "test0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ArtyomLebedev",
+  "license": "ISC",
+  "dependencies": {
+    "git": "^0.1.5"
+  }
+}
