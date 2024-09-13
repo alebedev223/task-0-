@@ -2,9 +2,9 @@
   "name": "lab0",
   "version": "1.0.0",
   "description": "test0",
-  "main": "index.js",
+  "main": "task0.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node task0.js"
   },
   "author": "ArtyomLebedev",
   "license": "ISC",
